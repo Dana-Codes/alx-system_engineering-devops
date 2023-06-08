@@ -1,4 +1,2 @@
 #!/bin/bash
-file -m school.mgc <filename>
-echo '0 string SCHOOL' > school.magic
-file -C -m school.magic > school.mgc
+file --mime-type -m school.mgc *
