@@ -3,13 +3,6 @@ DevOps
 Shell
 Bash
 Scripting
- By: Sylvain Kalache
- Weight: 1
- Project will start Oct 13, 2022 6:00 AM, must end by Oct 14, 2022 6:00 AM
- will be released at Oct 13, 2022 12:00 PM
- An auto review will be launched at the deadline
-About Bash projects
-Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS.
 
 Background Context
 
@@ -59,9 +52,3 @@ Any form of plagiarism is strictly forbidden and will result in removal from the
 More Info
 Shellcheck
 Shellcheck is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about. Shellcheck is your friend! All your Bash scripts must pass Shellcheck without any error or you will not get any points on the task.
-
-Shellcheck is available on the school’s computers. If you want to use it on your own computer, here is how to install it.
-
-Examples:
-
-Not passing Shellcheck
